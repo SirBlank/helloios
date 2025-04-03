@@ -1,4 +1,4 @@
-# Homework Assignment: helloios
+# Homework: Hello, iOS!
 
 Repository for University of Washington course INFO 449.
 
