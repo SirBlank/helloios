@@ -2,7 +2,7 @@
 
 Repository for University of Washington course INFO 449.
 
-**NOTICE**
+## **NOTICE**
 
 Deployed with:
 - macOS Version 14.4.1
